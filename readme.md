@@ -1,0 +1,1 @@
+The purpose of this project is to create multiple functions and pass those functions as arguments into more functions.
